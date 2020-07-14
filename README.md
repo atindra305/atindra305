@@ -1,4 +1,4 @@
-<img src="https://github.com/atindra305/atindra305/blob/master/juliana-malta-cuqsqaEh0SQ-unsplash.jpg" alt="Hero image">
+<img src="https://github.com/atindra305/atindra305/blob/master/colin-watts-NZP1fIhUOpo-unsplash.jpg" alt="Hero image">
 
 
 ### Hi there 👋
