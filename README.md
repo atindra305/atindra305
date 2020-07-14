@@ -1,9 +1,9 @@
-![picture](juliana-malta-cuqsqaEh0SQ-unsplash.jpg)
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
 
 
 ### Hi there 👋
 
-atindra305/atindra305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+atindra305/atindra305 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
