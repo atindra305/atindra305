@@ -1,9 +1,9 @@
 <img src="https://github.com/atindra305/atindra305/blob/master/colin-watts-NZP1fIhUOpo-unsplash.jpg" alt="Hero image">
 
 
-### Hi there 👋
+# Welcome
+I'm Atindra Shekhar, sophomore at Bennett University. I am experienced in Web Developement (Frontend and Backend). I also have experience with various programming languages C,C++, JAVA and Python as well as JavaScript. Video Editting and Content Writer are some of the areas I have gathered foundational knowledge.
 
-atindra305/atindra305 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
