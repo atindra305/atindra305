@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Atindra_Shekhar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/atindra-shekhar-6b6727193/)
 
-![Gmail](https://img.shields.io/badge/Gmail-atindra.shekhar@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/-atindra.shekhar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atindra.shekhar@gmail.com)](mailto:atindra.shekhar@gmail.com)
 
 # My Stats
 
