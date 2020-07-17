@@ -17,4 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Follow me on:
+
+[![GitHub followers](https://img.shields.io/github/followers/atindra305?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/atindra305/)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-Atindra_Shekhar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/atindra-shekhar-6b6727193/)
+
+![Gmail](https://img.shields.io/badge/Gmail-atindra.shekhar@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
+
+# My Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=atindra305&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats">
+
+
+
