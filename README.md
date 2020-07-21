@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Atindra_Shekhar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/atindra-shekhar-6b6727193/)
 
+# Languages I know: 
+
+![](https://img.shields.io/badge/Language-Java-green)
+![](https://img.shields.io/badge/Language-Python-blue)
+![](https://img.shields.io/badge/Language-C++-yellow)
+![](https://img.shields.io/badge/Language-C-yellow)
+![](https://img.shields.io/badge/Language-JavaScript-darkGreen)
 
 # My Stats
 
