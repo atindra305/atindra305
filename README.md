@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 # My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=atindra305&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats">
 
+![Atindra Shekhar's github stats](https://github-readme-stats.vercel.app/api?username=atindra305&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atindra305&theme=tokyonight&hide_langs_below=0)
 
 
 
