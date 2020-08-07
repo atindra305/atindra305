@@ -6,14 +6,12 @@ I'm Atindra Shekhar, sophomore at Bennett University. I am experienced in Web De
 
 <img src="https://github.com/atindra305/atindra305/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
 
-Here are some ideas to get you started:
+# About 
 
-### About 📌
-
-### ✔  **Domain :** FullStack Web Development 💻 
-### ✔  **Skills :** Javascript, Python, PHP, Mysql, C, C++, Java
-### ✔  **Learning :** MongoDB, Express, React and Node.js
-### ✔  **Hobbies :** Music 🎧
+### ⭐️  **Domain :** FullStack Web Development 💻 
+### ⭐️  **Skills :** Javascript, Python, PHP, Mysql, C, C++, Java
+### ⭐️  **Learning :** MongoDB, Express, React and Node.js
+### ⭐️  **Hobbies :** Music 🎧
 
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
