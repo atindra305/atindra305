@@ -4,7 +4,7 @@
 # Welcome
 I'm Atindra Shekhar, Sophomore at Bennett University. I am pursuing my majors in Computer Science.
 
-# About 
+## About 
 
 ### ⭐️  **Domain :** FullStack Web Development | Java Developer 
 ### ⭐️  **Skills :** Javascript, Python, PHP, Mysql, C, C++, Java
