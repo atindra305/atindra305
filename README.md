@@ -2,7 +2,17 @@
 
 
 # Welcome
-I'm Atindra Shekhar, sophomore at Bennett University. I am experienced in Web Developement (Frontend and Backend). I also have experience with various programming languages C,C++, JAVA and Python as well as JavaScript. Video Editting and Content Writer are some of the areas I have gathered foundational knowledge.
+I'm Atindra Shekhar, Sophomore at Bennett University. I am pursuing my majors in Computer Science.
+
+# About 
+
+### ⭐️  **Domain :** FullStack Web Development 💻 
+### ⭐️  **Skills :** Javascript, Python, PHP, Mysql, C, C++, Java
+### ⭐️  **Learning :** MongoDB, Express, React and Node.js
+### ⭐️  **Hobbies :** Music 🎧
+
+
+## Contributing to Open-Source 🔥🔥🔥🔥🔥
 
 <img src="https://github.com/atindra305/atindra305/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
 
