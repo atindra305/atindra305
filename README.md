@@ -29,6 +29,8 @@ I'm Atindra Shekhar, sophomore at Bennett University. I am experienced in Web De
 ![](https://img.shields.io/badge/Language-C++-yellow)
 ![](https://img.shields.io/badge/Language-C-yellow)
 ![](https://img.shields.io/badge/Language-JavaScript-darkGreen)
+![](https://img.shields.io/badge/Language-MySQL-red)
+![](https://img.shields.io/badge/Language-PHP-darkblue)
 
 # My Stats
 
