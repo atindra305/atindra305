@@ -6,7 +6,7 @@ I'm Atindra Shekhar, Sophomore at Bennett University. I am pursuing my majors in
 
 # About 
 
-### ⭐️  **Domain :** FullStack Web Development 💻 
+### ⭐️  **Domain :** FullStack Web Development | Java Developer 
 ### ⭐️  **Skills :** Javascript, Python, PHP, Mysql, C, C++, Java
 ### ⭐️  **Learning :** MongoDB, Express, React and Node.js
 ### ⭐️  **Hobbies :** Music 🎧
