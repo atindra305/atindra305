@@ -14,7 +14,6 @@ I'm Atindra Shekhar, Sophomore at Bennett University. I am pursuing my majors in
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
 
-<img src="https://github.com/atindra305/atindra305/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
 
 # Follow me on:
 
@@ -31,6 +30,9 @@ I'm Atindra Shekhar, Sophomore at Bennett University. I am pursuing my majors in
 ![](https://img.shields.io/badge/Language-JavaScript-darkGreen)
 ![](https://img.shields.io/badge/Language-MySQL-red)
 ![](https://img.shields.io/badge/Language-PHP-darkblue)
+
+
+<img src="https://github.com/atindra305/atindra305/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
 
 # My Stats
 
