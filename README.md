@@ -2,7 +2,7 @@
 
 
 # Welcome
-I'm Atindra Shekhar, pursuing Bacheslors at Bennett University. I am pursuing in my Third Year
+I'm Atindra Shekhar, pursuing Bachelors at Bennett University. I am pursuing in my Third Year
 
 ## About 
 
