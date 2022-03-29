@@ -2,7 +2,7 @@
 
 
 # Welcome
-I'm Atindra Shekhar, Sophomore at Bennett University. I am pursuing my majors in Computer Science.
+I'm Atindra Shekhar, pursuing Bacheslors at Bennett University. I am pursuing in my Third Year
 
 ## About 
 
